@@ -1,1 +1,1 @@
-# LangGrpah Practice
+# LangGraph Practice
